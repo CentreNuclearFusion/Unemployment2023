@@ -6,3 +6,9 @@ pandas
 
 plotly
 
+python-dotenv
+
+
+
+
+
